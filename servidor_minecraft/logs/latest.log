@@ -2826,3 +2826,5 @@ BCLib - Nether BiomeSource (68e505b8)
 [07Jul2024 13:27:17.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AntiCristo21 has made the advancement [We Need to Go Deeper]
 [07Jul2024 13:27:20.759] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5836ms or 116 ticks behind
 [07Jul2024 13:27:32.387] [Worker-Main-2/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] BBox:BoundingBox{minX=254, minY=22, minZ=158, maxX=434, maxY=96, maxZ=338}
+[07Jul2024 13:36:13.078] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AntiCristo21 lost connection: Disconnected
+[07Jul2024 13:36:13.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AntiCristo21 left the game
