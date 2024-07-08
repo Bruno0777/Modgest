@@ -2876,3 +2876,6 @@ BCLib - Nether BiomeSource (18eb2fbc)
 [08Jul2024 16:33:02.521] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
 [08Jul2024 16:33:02.521] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
 [08Jul2024 16:33:02.521] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/Modgest/servidor_minecraft/bclib-sync (allowDelete=true)
+[08Jul2024 16:37:50.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AntiCristo21 has made the advancement [Ice Bucket Challenge]
+[08Jul2024 16:39:14.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AntiCristo21 has made the advancement [Ruby Ore]
+[08Jul2024 16:39:24.974] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=31, y=87, z=1} BlockPos{x=21, y=82, z=18}
