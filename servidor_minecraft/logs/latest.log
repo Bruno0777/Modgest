@@ -4412,3 +4412,38 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [08Jul2024 04:28:00.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> voy
 [08Jul2024 04:29:16.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> xd
 [08Jul2024 04:30:38.457] [Server thread/INFO] [ToolLeveling+/]: TableUpgradeProcess failed 0.75 0.87244457
+[08Jul2024 04:35:40.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AntiCristo21> wtf
+[08Jul2024 04:35:46.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> ?
+[08Jul2024 04:35:48.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AntiCristo21> hay armaduras de netherite
+[08Jul2024 04:35:52.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AntiCristo21> asi bienrotas
+[08Jul2024 04:35:54.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AntiCristo21> XD
+[08Jul2024 04:36:06.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> las iron-netherite y asi?
+[08Jul2024 04:36:09.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AntiCristo21> si
+[08Jul2024 04:36:11.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> ._.xd
+[08Jul2024 04:36:15.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> apenas las descubres? jajaja
+[08Jul2024 04:36:18.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AntiCristo21> sisis
+[08Jul2024 04:37:53.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> aiwei
+[08Jul2024 04:37:54.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AntiCristo21> xd
+[08Jul2024 04:38:00.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AntiCristo21> mas flecheros
+[08Jul2024 04:38:04.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> zi
+[08Jul2024 04:38:04.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AntiCristo21> esommmm
+[08Jul2024 04:38:44.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AntiCristo21> mañana jugamos
+[08Jul2024 04:38:47.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AntiCristo21> voa a dormir
+[08Jul2024 04:38:51.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> ta bien
+[08Jul2024 04:38:51.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AntiCristo21> vas a seguir jugando?
+[08Jul2024 04:38:52.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AntiCristo21> xd
+[08Jul2024 04:38:53.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> no xd
+[08Jul2024 04:38:56.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AntiCristo21> vale
+[08Jul2024 04:38:57.787] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AntiCristo21 lost connection: Disconnected
+[08Jul2024 04:38:57.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AntiCristo21 left the game
+[08Jul2024 04:39:03.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[08Jul2024 04:39:04.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[08Jul2024 04:39:04.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[08Jul2024 04:39:04.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[08Jul2024 04:39:04.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[08Jul2024 04:39:12.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[08Jul2024 04:39:12.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[08Jul2024 04:39:12.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08Jul2024 04:39:12.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08Jul2024 04:39:12.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08Jul2024 04:39:12.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
