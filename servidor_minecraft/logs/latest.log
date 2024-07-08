@@ -3203,3 +3203,58 @@ BCLib - Nether BiomeSource (6d04312f)
 [08Jul2024 02:57:06.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> orita vengo
 [08Jul2024 02:57:09.034] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kamder lost connection: Disconnected
 [08Jul2024 02:57:09.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kamder left the game
+[08Jul2024 03:08:22.047] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kamder[/127.165.46.231:56539] logged in with entity id 25368 at (168.569100127193, 64.0, 139.79189849651792)
+[08Jul2024 03:08:22.051] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[08Jul2024 03:08:22.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kamder joined the game
+[08Jul2024 03:08:22.086] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'Kamder'
+[08Jul2024 03:08:22.086] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'Kamder'
+[08Jul2024 03:08:22.275] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[08Jul2024 03:08:22.275] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[08Jul2024 03:08:22.276] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[08Jul2024 03:08:22.276] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[08Jul2024 03:08:22.276] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[08Jul2024 03:08:22.276] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[08Jul2024 03:08:22.277] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[08Jul2024 03:08:22.277] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[08Jul2024 03:08:22.277] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[08Jul2024 03:08:22.277] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[08Jul2024 03:08:22.277] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[08Jul2024 03:08:22.277] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[08Jul2024 03:08:22.277] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[08Jul2024 03:08:22.278] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[08Jul2024 03:08:22.278] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[08Jul2024 03:08:22.278] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[08Jul2024 03:08:22.278] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[08Jul2024 03:08:22.278] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/Modgest/servidor_minecraft/bclib-sync (allowDelete=true)
+[08Jul2024 03:08:24.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AntiCristo21> mira
+[08Jul2024 03:08:27.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AntiCristo21> mira
+[08Jul2024 03:08:28.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AntiCristo21> mira
+[08Jul2024 03:08:29.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AntiCristo21> mira
+[08Jul2024 03:08:32.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> miro
+[08Jul2024 03:08:33.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kamder has made the advancement [Harder Than Gold]
+[08Jul2024 03:08:36.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> otia
+[08Jul2024 03:08:40.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AntiCristo21> con cuatro libros de efi 4
+[08Jul2024 03:08:41.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AntiCristo21> XD
+[08Jul2024 03:08:43.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> xdd
+[08Jul2024 03:08:46.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> ta potente
+[08Jul2024 03:08:51.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> que le pusiste?
+[08Jul2024 03:08:56.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> de items especiales
+[08Jul2024 03:08:59.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AntiCristo21> nada
+[08Jul2024 03:09:00.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> a
+[08Jul2024 03:09:02.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AntiCristo21> diorectamente
+[08Jul2024 03:09:05.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AntiCristo21> los 4 libros
+[08Jul2024 03:09:06.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AntiCristo21> XD
+[08Jul2024 03:09:35.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AntiCristo21> alfin farmear como enfermo gemas
+[08Jul2024 03:09:40.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AntiCristo21> servira para algo
+[08Jul2024 03:09:41.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AntiCristo21> xddd
+[08Jul2024 03:10:10.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AntiCristo21> shi o no kamder
+[08Jul2024 03:10:13.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> xd
+[08Jul2024 03:10:15.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AntiCristo21> reparacion 2 es lomejor
+[08Jul2024 03:10:17.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AntiCristo21> xdxdxd
+[08Jul2024 03:10:20.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> necesitamo libros
+[08Jul2024 03:10:27.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AntiCristo21> sacalos
+[08Jul2024 03:10:28.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AntiCristo21> de aca
+[08Jul2024 03:10:30.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AntiCristo21> los aldeanos
+[08Jul2024 03:10:31.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AntiCristo21> xd
+[08Jul2024 03:10:35.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> a
+[08Jul2024 03:10:36.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> cierto
