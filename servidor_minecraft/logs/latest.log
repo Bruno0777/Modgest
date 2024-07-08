@@ -2861,3 +2861,31 @@ BCLib - Nether BiomeSource (206b470d)
 [08Jul2024 14:45:41.699] [Server thread/INFO] [ToolLeveling+/]: TableUpgradeProcess failed 0.75 0.8041659
 [08Jul2024 15:05:10.974] [Server thread/INFO] [ToolLeveling+/]: TableUpgradeProcess failed 0.75 0.9180885
 [08Jul2024 15:13:35.837] [Server thread/INFO] [ToolLeveling+/]: TableUpgradeProcess failed 0.75 0.9278612
+[08Jul2024 15:28:42.605] [Server thread/INFO] [ToolLeveling+/]: TableUpgradeProcess failed 0.75 0.8486666
+[08Jul2024 15:32:08.109] [Server thread/WARN] [ToolLeveling+/]: TableUpgradeProcess: can not start upgrade process
+[08Jul2024 15:32:08.702] [Server thread/WARN] [ToolLeveling+/]: TableUpgradeProcess: can not start upgrade process
+[08Jul2024 15:32:08.900] [Server thread/WARN] [ToolLeveling+/]: TableUpgradeProcess: can not start upgrade process
+[08Jul2024 15:32:24.701] [Server thread/INFO] [ToolLeveling+/]: TableUpgradeProcess failed 0.75 0.7900816
+[08Jul2024 15:32:25.677] [Server thread/WARN] [ToolLeveling+/]: TableUpgradeProcess: can not start upgrade process
+[08Jul2024 15:32:25.954] [Server thread/WARN] [ToolLeveling+/]: TableUpgradeProcess: can not start upgrade process
+[08Jul2024 15:32:26.711] [Server thread/WARN] [ToolLeveling+/]: TableUpgradeProcess: can not start upgrade process
+[08Jul2024 15:32:26.926] [Server thread/WARN] [ToolLeveling+/]: TableUpgradeProcess: can not start upgrade process
+[08Jul2024 15:32:27.171] [Server thread/WARN] [ToolLeveling+/]: TableUpgradeProcess: can not start upgrade process
+[08Jul2024 15:32:27.354] [Server thread/WARN] [ToolLeveling+/]: TableUpgradeProcess: can not start upgrade process
+[08Jul2024 15:32:27.591] [Server thread/WARN] [ToolLeveling+/]: TableUpgradeProcess: can not start upgrade process
+[08Jul2024 15:32:27.781] [Server thread/WARN] [ToolLeveling+/]: TableUpgradeProcess: can not start upgrade process
+[08Jul2024 15:32:28.039] [Server thread/WARN] [ToolLeveling+/]: TableUpgradeProcess: can not start upgrade process
+[08Jul2024 15:32:56.902] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AntiCristo21 lost connection: Disconnected
+[08Jul2024 15:32:56.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AntiCristo21 left the game
+[08Jul2024 15:32:56.948] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[08Jul2024 15:33:22.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[08Jul2024 15:33:22.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[08Jul2024 15:33:22.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[08Jul2024 15:33:22.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[08Jul2024 15:33:23.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[08Jul2024 15:33:29.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[08Jul2024 15:33:29.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[08Jul2024 15:33:29.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08Jul2024 15:33:29.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08Jul2024 15:33:29.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08Jul2024 15:33:29.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
