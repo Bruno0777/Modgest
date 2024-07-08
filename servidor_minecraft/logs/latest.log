@@ -2884,3 +2884,5 @@ BCLib - Nether BiomeSource (18eb2fbc)
 [08Jul2024 17:03:58.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AntiCristo21 has made the advancement [Alex's Caves]
 [08Jul2024 17:04:08.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AntiCristo21 has made the advancement [It Belongs in a Museum]
 [08Jul2024 17:04:12.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AntiCristo21 has made the advancement [Once Upon a Cave]
+[08Jul2024 17:08:14.889] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AntiCristo21 lost connection: Disconnected
+[08Jul2024 17:08:14.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AntiCristo21 left the game
