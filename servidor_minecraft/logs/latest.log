@@ -2924,3 +2924,5 @@ BCLib - Nether BiomeSource (18eb2fbc)
 [08Jul2024 18:00:38.110] [Server thread/INFO] [ToolLeveling+/]: TableUpgradeProcess failed 0.75 0.8835547
 [08Jul2024 18:09:39.898] [Server thread/INFO] [ToolLeveling+/]: TableUpgradeProcess failed 0.75 0.89237756
 [08Jul2024 18:40:30.788] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/9185, l='ServerLevel[world]', x=186.56, y=-128.08, z=136.64] died, message: 'Villager fell out of the world'
+[08Jul2024 19:03:37.226] [Server thread/INFO] [ToolLeveling+/]: TableUpgradeProcess failed 0.75 0.80164623
+[08Jul2024 19:03:47.754] [Server thread/INFO] [ToolLeveling+/]: TableUpgradeProcess failed 0.75 0.77295464
