@@ -2856,3 +2856,4 @@ BCLib - Nether BiomeSource (206b470d)
 [08Jul2024 13:55:04.362] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/Modgest/servidor_minecraft/bclib-sync (allowDelete=true)
 [08Jul2024 14:07:01.183] [Server thread/INFO] [ToolLeveling+/]: TableUpgradeProcess failed 0.75 0.9917077
 [08Jul2024 14:09:10.079] [Server thread/INFO] [ToolLeveling+/]: TableUpgradeProcess failed 0.75 0.7737527
+[08Jul2024 14:38:39.827] [Server thread/INFO] [ToolLeveling+/]: TableUpgradeProcess failed 0.75 0.9820057
