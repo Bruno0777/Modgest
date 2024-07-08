@@ -2886,3 +2886,32 @@ BCLib - Nether BiomeSource (18eb2fbc)
 [08Jul2024 17:04:12.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AntiCristo21 has made the advancement [Once Upon a Cave]
 [08Jul2024 17:08:14.889] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AntiCristo21 lost connection: Disconnected
 [08Jul2024 17:08:14.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AntiCristo21 left the game
+[08Jul2024 17:20:08.579] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AntiCristo21[/127.111.236.208:40221] logged in with entity id 8273 at (196.32152397199923, -43.0, -340.69999998807907)
+[08Jul2024 17:20:08.592] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[08Jul2024 17:20:08.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AntiCristo21 joined the game
+[08Jul2024 17:20:08.675] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'AntiCristo21'
+[08Jul2024 17:20:08.675] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'AntiCristo21'
+[08Jul2024 17:20:08.883] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[08Jul2024 17:20:08.886] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[08Jul2024 17:20:08.889] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[08Jul2024 17:20:08.893] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[08Jul2024 17:20:08.893] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[08Jul2024 17:20:08.894] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[08Jul2024 17:20:08.894] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[08Jul2024 17:20:08.894] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[08Jul2024 17:20:08.895] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[08Jul2024 17:20:08.895] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[08Jul2024 17:20:08.895] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[08Jul2024 17:20:08.896] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[08Jul2024 17:20:08.896] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[08Jul2024 17:20:08.896] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[08Jul2024 17:20:08.896] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[08Jul2024 17:20:08.896] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[08Jul2024 17:20:08.896] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[08Jul2024 17:20:08.896] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/Modgest/servidor_minecraft/bclib-sync (allowDelete=true)
+[08Jul2024 17:21:42.305] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=164, y=-27, z=-296} BlockPos{x=163, y=-26, z=-295}
+[08Jul2024 17:21:42.396] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=164, y=-27, z=-296} BlockPos{x=163, y=-26, z=-295}
+[08Jul2024 17:21:42.397] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=164, y=-27, z=-296} BlockPos{x=163, y=-26, z=-295}
+[08Jul2024 17:21:42.464] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=164, y=-27, z=-296} BlockPos{x=163, y=-26, z=-295}
+[08Jul2024 17:21:42.514] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=164, y=-27, z=-296} BlockPos{x=163, y=-26, z=-295}
+[08Jul2024 17:21:42.568] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=164, y=-27, z=-296} BlockPos{x=163, y=-26, z=-295}
