@@ -2915,3 +2915,6 @@ BCLib - Nether BiomeSource (18eb2fbc)
 [08Jul2024 17:21:42.464] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=164, y=-27, z=-296} BlockPos{x=163, y=-26, z=-295}
 [08Jul2024 17:21:42.514] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=164, y=-27, z=-296} BlockPos{x=163, y=-26, z=-295}
 [08Jul2024 17:21:42.568] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=164, y=-27, z=-296} BlockPos{x=163, y=-26, z=-295}
+[08Jul2024 17:30:32.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AntiCristo21 has made the advancement [Lorem Ipsum]
+[08Jul2024 17:30:44.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AntiCristo21 has made the advancement [The Journey Begins]
+[08Jul2024 17:30:51.317] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:toxic_caves at 4726 -56 8384 in 3s
