@@ -2741,3 +2741,104 @@
 [09Jul2024 03:10:33.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> XDD
 [09Jul2024 03:10:42.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> JAJAj
 [09Jul2024 03:10:57.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheJoycraftj is bleeding. TheJoycraftj was slain by Kamder
+[09Jul2024 03:12:31.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> pues almenos yo las habia conseguido
+[09Jul2024 03:12:50.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheJoycraftj is bleeding. TheJoycraftj was slain by Kamder
+[09Jul2024 03:14:49.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AntiCristo21: Teleported TheJoycraftj to 1936.500000, 61.000000, -4671.500000]
+[09Jul2024 03:14:49.783] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12719ms or 254 ticks behind
+[09Jul2024 03:14:49.800] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kamder lost connection: Disconnected
+[09Jul2024 03:14:49.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kamder left the game
+[09Jul2024 03:14:52.224] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheJoycraftj lost connection: Disconnected
+[09Jul2024 03:14:52.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheJoycraftj left the game
+[09Jul2024 03:14:54.183] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kamder[/127.165.46.231:45253] logged in with entity id 99632 at (352.9947996835352, 58.32085882998918, 247.2890835013757)
+[09Jul2024 03:14:54.186] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[09Jul2024 03:14:54.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kamder joined the game
+[09Jul2024 03:14:54.196] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'Kamder'
+[09Jul2024 03:14:54.197] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'Kamder'
+[09Jul2024 03:14:54.343] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[09Jul2024 03:14:54.344] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[09Jul2024 03:14:54.345] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[09Jul2024 03:14:54.345] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[09Jul2024 03:14:54.346] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[09Jul2024 03:14:54.346] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[09Jul2024 03:14:54.346] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[09Jul2024 03:14:54.347] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[09Jul2024 03:14:54.347] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[09Jul2024 03:14:54.347] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[09Jul2024 03:14:54.348] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[09Jul2024 03:14:54.348] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[09Jul2024 03:14:54.349] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[09Jul2024 03:14:54.349] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[09Jul2024 03:14:54.349] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[09Jul2024 03:14:54.350] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[09Jul2024 03:14:54.350] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[09Jul2024 03:14:54.350] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/Modgest/servidor_minecraft/bclib-sync (allowDelete=true)
+[09Jul2024 03:14:55.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AntiCristo21> XDDDDDDDD
+[09Jul2024 03:15:01.481] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheJoycraftj[/127.169.176.101:32775] logged in with entity id 99748 at (1936.3000000000002, 61.0, -4671.700000000001)
+[09Jul2024 03:15:01.484] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[09Jul2024 03:15:01.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheJoycraftj joined the game
+[09Jul2024 03:15:01.491] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'TheJoycraftj'
+[09Jul2024 03:15:01.492] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'TheJoycraftj'
+[09Jul2024 03:15:01.867] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[09Jul2024 03:15:01.867] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[09Jul2024 03:15:01.868] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[09Jul2024 03:15:01.868] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[09Jul2024 03:15:01.868] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[09Jul2024 03:15:01.869] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[09Jul2024 03:15:01.869] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[09Jul2024 03:15:01.870] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[09Jul2024 03:15:01.870] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[09Jul2024 03:15:01.870] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[09Jul2024 03:15:01.871] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[09Jul2024 03:15:01.871] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[09Jul2024 03:15:01.871] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[09Jul2024 03:15:01.871] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[09Jul2024 03:15:01.872] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[09Jul2024 03:15:01.872] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[09Jul2024 03:15:01.872] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[09Jul2024 03:15:01.873] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/Modgest/servidor_minecraft/bclib-sync (allowDelete=true)
+[09Jul2024 03:15:06.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheJoycraftj is bleeding. TheJoycraftj suffocated in a wall
+[09Jul2024 03:15:06.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> se salva pq el puto efecto de radiacion no me deja perseguirlo bien
+[09Jul2024 03:15:11.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AntiCristo21: Teleported TheJoycraftj to AntiCristo21]
+[09Jul2024 03:15:31.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> un mordo :D
+[09Jul2024 03:16:16.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> que we
+[09Jul2024 03:16:21.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> solo vine a dejar a mordo II
+[09Jul2024 03:17:20.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheJoycraftj is bleeding. TheJoycraftj was slain by Kamder
+[09Jul2024 03:17:22.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheJoycraftj was slain by Kamder
+[09Jul2024 03:17:25.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> puto
+[09Jul2024 03:17:32.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> no ya enserio
+[09Jul2024 03:17:35.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AntiCristo21: Set TheJoycraftj's game mode to Survival Mode]
+[09Jul2024 03:17:36.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> crei que no le iba a poder pegar JAJA
+[09Jul2024 03:17:41.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AntiCristo21: Teleported TheJoycraftj to Kamder]
+[09Jul2024 03:17:59.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AntiCristo21: Teleported TheJoycraftj to 1936.500000, 61.000000, -4671.500000]
+[09Jul2024 03:18:34.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AntiCristo21: Teleported 3 entities to TheJoycraftj]
+[09Jul2024 03:18:36.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> A
+[09Jul2024 03:18:46.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> xd
+[09Jul2024 03:18:50.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> pa donde es
+[09Jul2024 03:19:31.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> tepe
+[09Jul2024 03:19:40.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AntiCristo21> XDDDDDDDDDDDDDDD
+[09Jul2024 03:19:42.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> un ajolote :D
+[09Jul2024 03:19:48.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> lo malo es q es cafe
+[09Jul2024 03:19:51.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> no me guta
+[09Jul2024 03:19:52.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AntiCristo21: Teleported Kamder to AntiCristo21]
+[09Jul2024 03:20:11.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheJoycraftj is bleeding. TheJoycraftj was slain by Vindicator
+[09Jul2024 03:20:21.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kamder is bleeding. Kamder was slain by Vindicator
+[09Jul2024 03:20:23.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> mrd
+[09Jul2024 03:20:36.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> uta es que las hachas hacen demasiado daño
+[09Jul2024 03:20:37.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AntiCristo21: Teleported 3 entities to AntiCristo21]
+[09Jul2024 03:20:56.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> son 200 rubiuh
+[09Jul2024 03:21:36.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheJoycraftj is bleeding. TheJoycraftj was slain by Vindicator
+[09Jul2024 03:22:14.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> xd
+[09Jul2024 03:22:30.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> xd
+[09Jul2024 03:23:21.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheJoycraftj is bleeding. TheJoycraftj was shot by AntiCristo21
+[09Jul2024 03:23:33.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheJoycraftj is bleeding. TheJoycraftj was shot by Pillager
+[09Jul2024 03:23:41.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> son demasiados loco
+[09Jul2024 03:25:27.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AntiCristo21> XDDDDDDDD
+[09Jul2024 03:28:00.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> casi me mata xd
+[09Jul2024 03:28:33.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheJoycraftj is bleeding. TheJoycraftj was slain by Vindicator
+[09Jul2024 03:28:44.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AntiCristo21: Teleported TheJoycraftj to Kamder]
+[09Jul2024 03:29:21.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> yo q
+[09Jul2024 03:30:20.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheJoycraftj is bleeding. TheJoycraftj was slain by Vindicator
+[09Jul2024 03:30:35.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> a mi me quitaron mi espada :[
+[09Jul2024 03:30:59.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> mrd
+[09Jul2024 03:31:00.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> vindicators
+[09Jul2024 03:32:07.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> y mi espada ;w;
