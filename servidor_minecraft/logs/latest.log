@@ -2994,3 +2994,9 @@ BCLib - Nether BiomeSource (68e505b8)
 [09Jul2024 13:53:10.552] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
 [09Jul2024 13:53:10.553] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/Modgest/servidor_minecraft/bclib-sync (allowDelete=true)
 [09Jul2024 13:57:38.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AntiCristo21 has made the advancement [Surge Protector]
+[09Jul2024 14:12:09.379] [Server thread/INFO] [ToolLeveling+/]: TableUpgradeProcess failed 0.75 0.78283256
+[09Jul2024 14:13:06.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AntiCristo21: Summoned new Experience Orb]
+[09Jul2024 14:13:10.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AntiCristo21: Summoned new Experience Orb]
+[09Jul2024 14:15:56.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AntiCristo21: Gave 100 [Enchanted Golden Apple] to AntiCristo21]
+[09Jul2024 14:16:45.196] [Server thread/INFO] [ToolLeveling+/]: TableUpgradeProcess failed 0.75 0.77134115
+[09Jul2024 14:18:33.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AntiCristo21: Gave 6400 [Emerald] to AntiCristo21]
