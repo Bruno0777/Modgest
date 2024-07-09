@@ -3010,3 +3010,9 @@ BCLib - Nether BiomeSource (68e505b8)
 [09Jul2024 14:57:03.799] [Server thread/INFO] [ToolLeveling+/]: TableUpgradeProcess failed 0.75 0.76476634
 [09Jul2024 14:57:18.374] [Server thread/INFO] [ToolLeveling+/]: TableUpgradeProcess failed 0.75 0.7961117
 [09Jul2024 14:59:00.732] [Server thread/INFO] [ToolLeveling+/]: TableUpgradeProcess failed 0.75 0.9954398
+[09Jul2024 15:04:31.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AntiCristo21: Summoned new Librarian]
+[09Jul2024 15:04:41.771] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/6414, l='ServerLevel[world]', x=130.45, y=64.00, z=147.28] died, message: 'Librarian was slain by AntiCristo21'
+[09Jul2024 15:08:45.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AntiCristo21: Summoned new Librarian]
+[09Jul2024 15:08:50.899] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/6677, l='ServerLevel[world]', x=131.54, y=64.56, z=147.50] died, message: 'Villager was slain by AntiCristo21'
+[09Jul2024 15:09:17.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AntiCristo21: Summoned new Librarian]
+[09Jul2024 15:09:26.262] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/6711, l='ServerLevel[world]', x=131.70, y=64.56, z=148.50] died, message: 'Weaponsmith was slain by AntiCristo21'
