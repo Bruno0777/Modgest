@@ -367,3 +367,177 @@
 [09Jul2024 00:49:37.102] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
 [09Jul2024 00:49:37.102] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
 [09Jul2024 00:49:37.102] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/Modgest/servidor_minecraft/bclib-sync (allowDelete=true)
+[09Jul2024 00:50:04.471] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AntiCristo21 lost connection: Timed out
+[09Jul2024 00:50:04.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AntiCristo21 left the game
+[09Jul2024 00:50:41.980] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AntiCristo21[/127.111.236.208:49873] logged in with entity id 42755 at (286.11244693006137, 42.0, 134.31299267701039)
+[09Jul2024 00:50:41.983] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[09Jul2024 00:50:41.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AntiCristo21 joined the game
+[09Jul2024 00:50:42.001] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'AntiCristo21'
+[09Jul2024 00:50:42.001] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'AntiCristo21'
+[09Jul2024 00:50:42.422] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[09Jul2024 00:50:42.422] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[09Jul2024 00:50:42.422] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[09Jul2024 00:50:42.423] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[09Jul2024 00:50:42.423] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[09Jul2024 00:50:42.423] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[09Jul2024 00:50:42.423] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[09Jul2024 00:50:42.423] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[09Jul2024 00:50:42.423] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[09Jul2024 00:50:42.423] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[09Jul2024 00:50:42.424] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[09Jul2024 00:50:42.424] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[09Jul2024 00:50:42.424] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[09Jul2024 00:50:42.424] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[09Jul2024 00:50:42.424] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[09Jul2024 00:50:42.424] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[09Jul2024 00:50:42.424] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[09Jul2024 00:50:42.425] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/Modgest/servidor_minecraft/bclib-sync (allowDelete=true)
+[09Jul2024 00:51:12.072] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AntiCristo21 lost connection: Timed out
+[09Jul2024 00:51:12.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AntiCristo21 left the game
+[09Jul2024 00:52:06.821] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7c43ae22[id=<null>,name=AntiCristo21,properties={},legacy=false] (/127.111.236.208:40281) lost connection: Disconnected
+[09Jul2024 00:53:03.284] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AntiCristo21[/127.111.236.208:58727] logged in with entity id 43883 at (286.11244693006137, 42.0, 134.31299267701039)
+[09Jul2024 00:53:03.289] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[09Jul2024 00:53:03.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AntiCristo21 joined the game
+[09Jul2024 00:53:03.309] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'AntiCristo21'
+[09Jul2024 00:53:03.310] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'AntiCristo21'
+[09Jul2024 00:53:04.301] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[09Jul2024 00:53:04.301] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[09Jul2024 00:53:04.301] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[09Jul2024 00:53:04.302] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[09Jul2024 00:53:04.302] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[09Jul2024 00:53:04.302] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[09Jul2024 00:53:04.302] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[09Jul2024 00:53:04.302] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[09Jul2024 00:53:04.302] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[09Jul2024 00:53:04.302] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[09Jul2024 00:53:04.303] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[09Jul2024 00:53:04.303] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[09Jul2024 00:53:04.303] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[09Jul2024 00:53:04.303] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[09Jul2024 00:53:04.303] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[09Jul2024 00:53:04.303] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[09Jul2024 00:53:04.304] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[09Jul2024 00:53:04.305] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/Modgest/servidor_minecraft/bclib-sync (allowDelete=true)
+[09Jul2024 00:53:33.373] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AntiCristo21 lost connection: Timed out
+[09Jul2024 00:53:33.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AntiCristo21 left the game
+[09Jul2024 00:55:00.969] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2cf02ad0[id=<null>,name=AntiCristo21,properties={},legacy=false] (/127.111.236.208:39449) lost connection: Disconnected
+[09Jul2024 00:55:13.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] ayuda
+[09Jul2024 00:55:16.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> ?
+[09Jul2024 00:55:34.835] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AntiCristo21[/127.111.236.208:35213] logged in with entity id 44626 at (286.11244693006137, 42.0, 134.31299267701039)
+[09Jul2024 00:55:34.838] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[09Jul2024 00:55:34.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AntiCristo21 joined the game
+[09Jul2024 00:55:34.857] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'AntiCristo21'
+[09Jul2024 00:55:34.857] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'AntiCristo21'
+[09Jul2024 00:55:36.041] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[09Jul2024 00:55:36.042] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[09Jul2024 00:55:36.042] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[09Jul2024 00:55:36.043] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[09Jul2024 00:55:36.043] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[09Jul2024 00:55:36.043] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[09Jul2024 00:55:36.043] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[09Jul2024 00:55:36.044] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[09Jul2024 00:55:36.044] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[09Jul2024 00:55:36.044] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[09Jul2024 00:55:36.045] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[09Jul2024 00:55:36.045] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[09Jul2024 00:55:36.045] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[09Jul2024 00:55:36.046] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[09Jul2024 00:55:36.046] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[09Jul2024 00:55:36.046] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[09Jul2024 00:55:36.047] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[09Jul2024 00:55:36.047] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/Modgest/servidor_minecraft/bclib-sync (allowDelete=true)
+[09Jul2024 00:55:52.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AntiCristo21> veo negro
+[09Jul2024 00:55:54.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> xd
+[09Jul2024 00:55:56.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AntiCristo21> ynopaso de ahi
+[09Jul2024 00:55:57.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AntiCristo21> xd
+[09Jul2024 00:56:04.977] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AntiCristo21 lost connection: Timed out
+[09Jul2024 00:56:04.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AntiCristo21 left the game
+[09Jul2024 00:56:49.329] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AntiCristo21[/127.111.236.208:41387] logged in with entity id 45275 at (286.11244693006137, 42.0, 134.31299267701039)
+[09Jul2024 00:56:49.333] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[09Jul2024 00:56:49.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AntiCristo21 joined the game
+[09Jul2024 00:56:49.348] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'AntiCristo21'
+[09Jul2024 00:56:49.348] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'AntiCristo21'
+[09Jul2024 00:56:49.958] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[09Jul2024 00:56:49.959] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[09Jul2024 00:56:49.960] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[09Jul2024 00:56:49.960] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[09Jul2024 00:56:49.960] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[09Jul2024 00:56:49.961] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[09Jul2024 00:56:49.961] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[09Jul2024 00:56:49.961] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[09Jul2024 00:56:49.961] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[09Jul2024 00:56:49.962] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[09Jul2024 00:56:49.962] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[09Jul2024 00:56:49.962] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[09Jul2024 00:56:49.962] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[09Jul2024 00:56:49.963] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[09Jul2024 00:56:49.963] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[09Jul2024 00:56:49.963] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[09Jul2024 00:56:49.964] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[09Jul2024 00:56:49.964] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/Modgest/servidor_minecraft/bclib-sync (allowDelete=true)
+[09Jul2024 00:57:05.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AntiCristo21> aajdhsjkdsada
+[09Jul2024 00:57:10.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AntiCristo21> alfin me cargo
+[09Jul2024 00:57:19.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AntiCristo21> ontyas
+[09Jul2024 00:57:20.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AntiCristo21> xdd
+[09Jul2024 00:57:25.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> buscando el portal xd
+[09Jul2024 00:57:43.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AntiCristo21> y la nether city?
+[09Jul2024 00:57:47.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> me la pela
+[09Jul2024 00:57:50.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> ni se k es eso
+[09Jul2024 00:58:09.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AntiCristo21> guardaste coords?
+[09Jul2024 00:58:10.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AntiCristo21> xd
+[09Jul2024 00:58:10.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> ne a la vrg me perdi
+[09Jul2024 00:58:54.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> ;w;
+[09Jul2024 00:59:00.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AntiCristo21> ubieras
+[09Jul2024 00:59:03.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AntiCristo21> guardado
+[09Jul2024 00:59:06.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AntiCristo21> coordss
+[09Jul2024 00:59:06.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> weon
+[09Jul2024 00:59:08.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> se me olvidó
+[09Jul2024 00:59:11.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> nmme
+[09Jul2024 00:59:15.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> A
+[09Jul2024 00:59:16.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AntiCristo21> y si
+[09Jul2024 00:59:18.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> justo lo encontré
+[09Jul2024 00:59:19.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> XDD
+[09Jul2024 00:59:23.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AntiCristo21> coords
+[09Jul2024 00:59:23.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AntiCristo21> xd
+[09Jul2024 00:59:26.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> 41 88 -8
+[09Jul2024 00:59:37.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> aiwei
+[09Jul2024 00:59:45.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> ehm
+[09Jul2024 00:59:51.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> este no es el portal a la casa
+[09Jul2024 00:59:58.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> me mandó a otro lado xd
+[09Jul2024 01:00:01.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> estoy en savanna
+[09Jul2024 01:00:02.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AntiCristo21> al de la arena?
+[09Jul2024 01:00:03.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AntiCristo21> xd
+[09Jul2024 01:00:05.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AntiCristo21> sisi
+[09Jul2024 01:00:11.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AntiCristo21> hay un charco de agua?
+[09Jul2024 01:00:12.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AntiCristo21> xd
+[09Jul2024 01:00:14.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> lo weno que tengo coords de la casa
+[09Jul2024 01:00:17.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> no hay xd
+[09Jul2024 01:00:22.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AntiCristo21> lava
+[09Jul2024 01:00:25.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> si
+[09Jul2024 01:00:27.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AntiCristo21> aya
+[09Jul2024 01:00:30.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AntiCristo21> esta bn tonces
+[09Jul2024 01:00:34.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AntiCristo21> ve ala hous
+[09Jul2024 01:00:49.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> voy
+[09Jul2024 01:00:58.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AntiCristo21> fortaleza xd
+[09Jul2024 01:01:40.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> ya llegue
+[09Jul2024 01:02:16.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> las coords del verdadero portal a la casa
+[09Jul2024 01:02:19.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> 25 89 5
+[09Jul2024 01:02:20.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> xd
+[09Jul2024 01:02:23.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AntiCristo21> ya
+[09Jul2024 01:05:51.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AntiCristo21> va jugar joy
+[09Jul2024 01:05:55.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> a
+[09Jul2024 01:06:06.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> taweno
+[09Jul2024 01:06:27.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> me meto a la llamada?
+[09Jul2024 01:06:31.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AntiCristo21> sikeres
+[09Jul2024 01:06:35.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> weno
+[09Jul2024 01:06:59.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> casi no lo escucho y eso que le subi al volumen al 200%
+[09Jul2024 01:07:00.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> ._.xd
+[09Jul2024 01:07:52.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> ese we se enoja muy facil no?
+[09Jul2024 01:08:10.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AntiCristo21> sixd
+[09Jul2024 01:08:14.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> JAJAJ
+[09Jul2024 01:08:14.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AntiCristo21> es jugador de gd
+[09Jul2024 01:08:20.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> ah ps con razon
+[09Jul2024 01:08:27.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> se nota por su voz
+[09Jul2024 01:09:34.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AntiCristo21: Set own game mode to Creative Mode]
+[09Jul2024 01:09:40.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> XD
+[09Jul2024 01:09:42.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> coords?
