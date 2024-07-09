@@ -2983,3 +2983,59 @@
 [09Jul2024 03:39:56.133] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/Modgest/servidor_minecraft/bclib-sync (allowDelete=true)
 [09Jul2024 03:42:14.587] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheJoycraftj moved wrongly!
 [09Jul2024 03:42:16.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheJoycraftj is bleeding. TheJoycraftj was slain by Cave Spider
+[09Jul2024 03:42:28.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheJoycraftj was doomed to fall
+[09Jul2024 03:42:30.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> A
+[09Jul2024 03:42:39.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> q pndjo tu tambien
+[09Jul2024 03:42:42.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AntiCristo21: Teleported TheJoycraftj to Kamder]
+[09Jul2024 03:42:44.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> pa que te pones en telaraña
+[09Jul2024 03:42:51.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AntiCristo21: Set TheJoycraftj's game mode to Survival Mode]
+[09Jul2024 03:43:18.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> yo
+[09Jul2024 03:43:25.182] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1928, y=99, z=-4677} BlockPos{x=1926, y=98, z=-4669}
+[09Jul2024 03:43:25.234] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1928, y=99, z=-4677} BlockPos{x=1926, y=98, z=-4669}
+[09Jul2024 03:43:26.692] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1929, y=98, z=-4669} BlockPos{x=1929, y=98, z=-4673}
+[09Jul2024 03:43:26.727] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1929, y=98, z=-4669} BlockPos{x=1929, y=98, z=-4673}
+[09Jul2024 03:43:51.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> 163 64 98
+[09Jul2024 03:44:03.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> a mi no
+[09Jul2024 03:44:08.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> voy a seguir looteando xd
+[09Jul2024 03:44:21.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AntiCristo21: Teleported AntiCristo21 to 163.500000, 64.000000, 98.500000]
+[09Jul2024 03:44:45.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> q
+[09Jul2024 03:44:50.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> xd
+[09Jul2024 03:45:33.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> tp
+[09Jul2024 03:45:37.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> ya no queda nd
+[09Jul2024 03:45:38.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> se
+[09Jul2024 03:45:49.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> pa morirte otra vez o q jou
+[09Jul2024 03:45:51.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> joy
+[09Jul2024 03:45:54.257] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #dungeons_arise:explorer_maps/foundry (dungeons_arise:foundry) took 294 ms
+[09Jul2024 03:45:54.269] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of TheJoycraftj) moved too quickly! -2.1851929363426734,0.0,9.839433514959637
+[09Jul2024 03:46:01.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> ._.xd
+[09Jul2024 03:46:22.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> mano q riko
+[09Jul2024 03:46:32.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AntiCristo21: Teleported TheJoycraftj to -3711.500000, 64.000000, 3952.500000]
+[09Jul2024 03:46:32.191] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8327ms or 166 ticks behind
+[09Jul2024 03:46:32.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> habia botellas de exp
+[09Jul2024 03:46:36.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> a
+[09Jul2024 03:46:38.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> xd
+[09Jul2024 03:46:45.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AntiCristo21: Teleported Kamder to AntiCristo21]
+[09Jul2024 03:46:50.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> menos
+[09Jul2024 03:46:50.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> 2
+[09Jul2024 03:47:05.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> 1 cora
+[09Jul2024 03:47:42.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AntiCristo21: Teleported AntiCristo21 to TheJoycraftj]
+[09Jul2024 03:48:28.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheJoycraftj has made the advancement [Iron Maiden]
+[09Jul2024 03:48:34.258] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #dungeons_arise:explorer_maps/bandit_towers (dungeons_arise:bandit_towers) took 3697 ms
+[09Jul2024 03:48:34.258] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3694ms or 73 ticks behind
+[09Jul2024 03:48:34.277] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheJoycraftj moved too quickly! -9.759509874756986,1.2522033402537218,-2.6234599709323447
+[09Jul2024 03:48:40.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AntiCristo21> XDD
+[09Jul2024 03:48:43.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> ._.xd
+[09Jul2024 03:48:49.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AntiCristo21> XDDDDD
+[09Jul2024 03:48:58.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AntiCristo21: Teleported AntiCristo21 to TheJoycraftj]
+[09Jul2024 03:48:59.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AntiCristo21 has made the advancement [Iron Maiden]
+[09Jul2024 03:49:12.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> tepeteptepe
+[09Jul2024 03:49:19.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AntiCristo21: Teleported Kamder to AntiCristo21]
+[09Jul2024 03:49:20.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kamder has made the advancement [Iron Maiden]
+[09Jul2024 03:49:23.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> se
+[09Jul2024 03:49:27.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> DEMASIado
+[09Jul2024 03:49:28.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> jodido
+[09Jul2024 03:50:11.309] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/112721, l='ServerLevel[world]', x=-3729.87, y=26.00, z=3969.14] died: Debris Miner was slain by Kamder
+[09Jul2024 03:50:15.943] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/112720, l='ServerLevel[world]', x=-3728.39, y=24.00, z=3968.48] died: Debris Miner was slain by Kamder
+[09Jul2024 03:51:50.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> vas a explotar una nuke?
+[09Jul2024 03:51:55.485] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/113086, l='ServerLevel[world]', x=-3663.86, y=26.00, z=3935.61] died: Debris Miner was slain by TheJoycraftj
+[09Jul2024 03:52:27.545] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3586, y=2, z=3945} BlockPos{x=-3586, y=1, z=3944}
