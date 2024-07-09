@@ -3003,3 +3003,10 @@ BCLib - Nether BiomeSource (68e505b8)
 [09Jul2024 14:22:04.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AntiCristo21: Gave 1 [White Sleeping bag] to AntiCristo21]
 [09Jul2024 14:22:20.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AntiCristo21: Gave 2 [Villager Traveler's Backpack] to AntiCristo21]
 [09Jul2024 14:24:27.939] [Server thread/INFO] [ToolLeveling+/]: TableUpgradeProcess failed 0.75 0.8774602
+[09Jul2024 14:50:09.104] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/2193, l='ServerLevel[world]', x=146.51, y=61.00, z=129.49] died, message: 'Librarian was slain by AntiCristo21'
+[09Jul2024 14:50:42.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AntiCristo21: Gave 1 [Villager Spawn Egg] to AntiCristo21]
+[09Jul2024 14:51:58.847] [Server thread/INFO] [ToolLeveling+/]: TableUpgradeProcess failed 0.75 0.8164427
+[09Jul2024 14:56:40.916] [Server thread/INFO] [ToolLeveling+/]: TableUpgradeProcess failed 0.75 0.98891217
+[09Jul2024 14:57:03.799] [Server thread/INFO] [ToolLeveling+/]: TableUpgradeProcess failed 0.75 0.76476634
+[09Jul2024 14:57:18.374] [Server thread/INFO] [ToolLeveling+/]: TableUpgradeProcess failed 0.75 0.7961117
+[09Jul2024 14:59:00.732] [Server thread/INFO] [ToolLeveling+/]: TableUpgradeProcess failed 0.75 0.9954398
