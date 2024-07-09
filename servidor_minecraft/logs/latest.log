@@ -3016,3 +3016,27 @@ BCLib - Nether BiomeSource (68e505b8)
 [09Jul2024 15:08:50.899] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/6677, l='ServerLevel[world]', x=131.54, y=64.56, z=147.50] died, message: 'Villager was slain by AntiCristo21'
 [09Jul2024 15:09:17.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AntiCristo21: Summoned new Librarian]
 [09Jul2024 15:09:26.262] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/6711, l='ServerLevel[world]', x=131.70, y=64.56, z=148.50] died, message: 'Weaponsmith was slain by AntiCristo21'
+[09Jul2024 15:10:24.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AntiCristo21: Summoned new Librarian]
+[09Jul2024 15:10:26.713] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/6790, l='ServerLevel[world]', x=131.55, y=64.56, z=147.43] died, message: 'Villager was slain by AntiCristo21'
+[09Jul2024 15:11:01.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AntiCristo21: Summoned new Librarian]
+[09Jul2024 15:11:07.734] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/6832, l='ServerLevel[world]', x=127.13, y=64.00, z=150.15] died, message: 'Librarian was slain by AntiCristo21'
+[09Jul2024 15:12:37.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AntiCristo21: Summoned new Librarian]
+[09Jul2024 15:13:04.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AntiCristo21: Summoned new Librarian]
+[09Jul2024 15:13:10.511] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/6923, l='ServerLevel[world]', x=131.52, y=64.56, z=148.10] died, message: 'Librarian was slain by AntiCristo21'
+[09Jul2024 15:13:14.164] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/6943, l='ServerLevel[world]', x=125.83, y=64.00, z=148.50] died, message: 'Librarian was slain by AntiCristo21'
+[09Jul2024 15:14:09.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AntiCristo21: Summoned new Librarian]
+[09Jul2024 15:14:16.628] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/7017, l='ServerLevel[world]', x=131.19, y=64.56, z=147.86] died, message: 'Librarian was slain by AntiCristo21'
+[09Jul2024 15:14:40.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AntiCristo21: Summoned new Librarian]
+[09Jul2024 15:15:13.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AntiCristo21: Summoned new Librarian]
+[09Jul2024 15:15:16.925] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/7057, l='ServerLevel[world]', x=131.51, y=64.56, z=148.57] died, message: 'Librarian was slain by AntiCristo21'
+[09Jul2024 15:15:19.321] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/7095, l='ServerLevel[world]', x=125.45, y=65.00, z=148.09] died, message: 'Librarian was slain by AntiCristo21'
+[09Jul2024 15:15:28.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AntiCristo21: Summoned new Librarian]
+[09Jul2024 15:15:31.319] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/7118, l='ServerLevel[world]', x=125.45, y=64.00, z=149.37] died, message: 'Librarian was slain by AntiCristo21'
+[09Jul2024 15:15:40.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AntiCristo21: Summoned new Librarian]
+[09Jul2024 15:15:44.678] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/7127, l='ServerLevel[world]', x=125.51, y=64.00, z=149.49] died, message: 'Librarian was slain by AntiCristo21'
+[09Jul2024 15:16:25.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AntiCristo21: Summoned new Librarian]
+[09Jul2024 15:16:32.575] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/7166, l='ServerLevel[world]', x=124.75, y=64.00, z=146.58] died, message: 'Librarian was slain by AntiCristo21'
+[09Jul2024 15:17:50.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AntiCristo21: Summoned new Librarian]
+[09Jul2024 15:17:54.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AntiCristo21: Summoned new Librarian]
+[09Jul2024 15:17:57.877] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/7263, l='ServerLevel[world]', x=121.03, y=64.81, z=146.91] died, message: 'Librarian was slain by AntiCristo21'
+[09Jul2024 15:18:02.623] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/7264, l='ServerLevel[world]', x=127.53, y=64.00, z=154.91] died, message: 'Librarian was slain by AntiCristo21'
